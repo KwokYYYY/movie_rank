@@ -3,4 +3,4 @@ desc: 获取国内实时电影票房 # 插件简短描述
 help: 输入 /movie_rank 获取国内实时电影票房。 # 插件的帮助信息
 version: v1.0 # 插件版本号。格式：v1.1.1 或者 v1.1
 author: kwoky # 作者
-repo: https://github.com/Soulter/helloworld # 插件的仓库地址
+repo: https://github.com/KwokYYYY/movie_rank # 插件的仓库地址
